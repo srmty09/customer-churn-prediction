@@ -99,7 +99,7 @@ Building this pipeline surfaced several non-trivial issues, each diagnosed and r
  
 ```bash
 # Clone the repository
-git clone https://github.com/deepakp-tech/churn-prediction-customer-lifetime-value-modeling.git
+git clone https://github.com/srmty09/customer-churn-prediction.git
 cd churn-prediction-customer-lifetime-value-modeling
  
 # Install dependencies
